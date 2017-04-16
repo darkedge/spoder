@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     mjtextedit.cpp \
-    autovectorizedialog.cpp
+    autovectorizedialog.cpp \
+    mjhighlighter.cpp
 
 HEADERS  += mainwindow.h \
     mjtextedit.h \
-    autovectorizedialog.h
+    autovectorizedialog.h \
+    mjhighlighter.h
 
 FORMS    += mainwindow.ui \
     autovectorizedialog.ui

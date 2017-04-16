@@ -1,7 +1,7 @@
 #ifndef MJTEXTEDIT_H
 #define MJTEXTEDIT_H
 
-#include <QTextEdit>
+#include <QPlainTextEdit>
 
 namespace Ui {
 class MJTextEdit;
